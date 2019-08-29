@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.udMajuJayalokal.app" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Ud Maju Jaya Lokal</name>
+<widget id="com.accSoetaLokal.app" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Acc Soekarno Hatta Lokal</name>
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
