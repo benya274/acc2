@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ayuFrozen.app" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>AyuFrozen</name>
+<widget id="com.autocarecentre.app" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>ACC</name>
     <description>
-        Ayu Frozen Foods
+        ACC
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Vb-Corp
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
